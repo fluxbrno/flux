@@ -1,1 +1,2 @@
-# flux
+I used a template to do this project. And unfortunately i lost my last version of this project. If you wanna use this it is very good template to use and you can change the css style via mbr-additional.css. it is located in assets/mobirise/css
+Also in the last version there was a layout called "masonary". It is same as pinterest layout. So with different sizes of photos comes from facebook are fits perfectly. 
