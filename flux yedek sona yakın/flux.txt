@@ -1,0 +1,35 @@
+
+    "data": {
+        "_v": 1,
+        "attr": {
+            "feed": true
+        },
+        "classification": "event",
+        "description": [
+            {
+                "data": "Industra Art srdečně zve na vernisáž a nadcházející výstavu Alea iacta est.\n\nAbstrakce v plátnech Gabriely Těthalové jsou povahou věcí, ne jen ne-foremným objektem. Její plátna jsou malbami prostoru v ploše, konstelacemi světa, o němž můžeme jen spekulovat. Instalace výstavy vychází z básně Stéphana Mallarmého Un coup des dés jamais n'abolira le hasard (Vrh kostek nikdy nezruší náhodu). Výstava je poetickým obrazem chaotického řádu světa – kostky jsou vrženy, alea iacta est. \n\nhttps://gabrielatethalova.tumblr.com/\nhttp://cargocollective.com/gabrielatethalova\n\nVystavující: Gabriela Těthalová\nKurátorka: Eva Skopalová\n\nvýstava potrvá do 23.6. 2018\n\n\nDěkujeme partnerům: BU2R, CAT CUT, Mrazírny Rovner, UMA Audioguide, PROFIL NÁBYTEK a.s. Za finanční podpory statutárního města Brna, Jihomoravského kraje a Ministerstva kultury.\n\nIndustra – nezávislý neziskový kreativní hub koncentrující následováníhodné / inspirativní projekty z ČR i zahraničí do průmyslového srdce města Brna. Komunikační prostor, ve kterém se setkává umění, design, věda, vzdělávání, inovace a občanská společnost.\n\nhttps://industra.space/\n\nIndustra STAGE\nIndustra Lab\nIndustra Cut&Sew\nIndustra Coffee",
+                "lang": "cs",
+                "sequence": 1
+            }
+        ],
+        "dt_created": "2018-08-05T20:31:02+02:00",
+        "dt_end": "2018-05-24T21:00:00+0200",
+        "dt_modified": "2018-08-05T20:31:02+02:00",
+        "dt_start": "2018-05-24T19:00:00+0200",
+        "sequence": 1,
+        "status": {
+            "dt_infeed": "",    
+            "privacy": "public",
+            "published": true
+        },
+        "summary": [
+            {
+                "data": "Gabriela Těthalová - Alea iacta est",
+                "lang": "cs",
+                "sequence": 1
+            }
+        ],
+        "tzid": "Europe/Prague",
+        "uid": 4
+    }
+}
